@@ -1,0 +1,7 @@
+You use this strategy at your own risk. 
+By using this strategy, you agree that you are solely responsible for your
+potential gains or losses.
+ 
+Make sure you understand how the strategy works from A-Z.
+Once you do, change the last line in the pairs config to
+DEFAULT_trading_enabled = true
